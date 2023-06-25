@@ -4,7 +4,7 @@
 <br>
 
 ## What is this project about?
-This is an online version of the game Simon. The way that it works is that you can press any key to start and it will show a tile that you have to click on. As you go from level to level, the patterns you have to repeat get more complicated. When you get it wrong your game is over.
+This is an online version of the game Simon. You need to press any key to start and it will show a tile that you have to click on. As you go from level to level, the patterns you have to repeat get more complicated. When you get it wrong your game is over.
 <br>
 
 ## Technologies used
